@@ -1,1 +1,2 @@
 # Robotic-Arm
+The “Linear Actuator Robotic Arm” project aims to design a robotic arm that uses a linear actuator (linear motor) to move the arm up and down with precision and stability. It is used via Arduino and Palm motion controller, allowing it to perform tasks such as lifting, moving, and handling in industrial and educational applications. It provides an efficient option for smooth motion control, making it an ideal choice for systems that require precise positioning.
